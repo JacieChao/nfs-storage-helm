@@ -1,0 +1,11 @@
+name: nfs-storage
+version: v1.0.0
+description: A Helm Chart for Kubernetes(nfs storage helm)
+keywords:
+- nfs
+- storage class
+sources:
+- https://github.com/JacieChao/nfs-storage
+maintainers:
+- name: juhc
+  email: 493136503@qq.com

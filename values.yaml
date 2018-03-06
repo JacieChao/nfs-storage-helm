@@ -1,0 +1,6 @@
+image: quay.io/kubernetes_incubator/nfs-provisioner
+imageVersion: v1.0.8
+imagePullPolicy: IfNotPresent
+nfsserver: jacie.io/nfs
+serviceAccount: nfssa
+rbacEnable: true
